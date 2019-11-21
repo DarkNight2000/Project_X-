@@ -1,4 +1,4 @@
-# Software Assessment - Report Cards
+# Report Cards
 
 Report Cards is a iPython Nootbook script to generate a text file containing the “report card” of all students.
 
@@ -24,5 +24,4 @@ Prerequsite Python library package:
 
 4) The code will automatically generate the txt file and download the report card into the local system. 
 
-## Author
-Lingfeng Zhang
+
